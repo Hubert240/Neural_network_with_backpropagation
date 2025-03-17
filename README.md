@@ -1,5 +1,5 @@
 # Classification of data from dataset Y using an artificial neural network trained by the backpropagation method 
-# Klasyfikacja danych ze zbioru Y z wykorzystaniem sztucznej sieci neuronowej uczonej metodą wstecznej propagacji błędu.
+# Klasyfikacja danych ze zbioru Y z wykorzystaniem sztucznej sieci neuronowej uczonej metodą wstecznej propagacji błędu
 
 ## English Version
 ### Project Overview
